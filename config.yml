@@ -1,0 +1,4 @@
+binaries:
+  - rubinius-2.2.3
+distributions:
+  debian_8_64bit_jessie: http://rubies.shellycloud.com/boxes/debian_8_jessie_64bit.box

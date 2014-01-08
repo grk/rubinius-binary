@@ -1,0 +1,5 @@
+binaries
+rbx-*
+.vagrant
+Gemfile.lock
+log/
